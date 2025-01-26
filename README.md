@@ -17,14 +17,14 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
-* The website will be provided charts for better data visualization.
+* [ ] List anything else that you can get done to improve the app functionality!
+* - The website will be provided charts for better data visualization.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-/web102_prework/prework.gif
+<img src='web102_prework/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
@@ -37,7 +37,7 @@ GIF created with LICEcap
 
 Describe any challenges encountered while building the app.
 
-Sometime the instructions were quite confusing, but overall they were still easy to handle.
+Sometime the instructions were quite confused, but overall they were still easy to handle.
 
 ## License
 
