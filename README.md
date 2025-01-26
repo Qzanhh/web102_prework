@@ -18,15 +18,16 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* - The website will be provided charts for better data visualization.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='C:/Users/BIN/Codepath/web102_prework/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web102_prework/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,9 +37,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Sometime the instructions were quite confused, but overall they were still easy to handle.
+
 ## License
 
-    Copyright 2025 Quang Anh Nguyen
+    Copyright 2025 by Quang Anh Nguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
